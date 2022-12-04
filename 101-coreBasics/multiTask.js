@@ -57,7 +57,7 @@ Hash: xx
 Hash: xx
 Hash: xx
 
-For UV_THREADPOOL_SIZE = 5
+For UV_THREADPOOL_SIZE = 1
 Request: xx
 Hash: xx
 Hash: xx

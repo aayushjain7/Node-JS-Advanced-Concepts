@@ -42,7 +42,7 @@ On executing all 5 with UV_THREADPOOL_SIZE=5
 2: 1392
 5: 1439
 
-On executing all 5 with UV_THREADPOOL_SIZE=4
+On executing all 5 with UV_THREADPOOL_SIZE=1
 1: 566
 2: 1143
 3: 1866
